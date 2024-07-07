@@ -19,6 +19,7 @@
         <module>slf4j2-log4j-binding</module>
         <module>slf4j17-log4j-binding</module>
         <module>slf4j2-multiple-providers</module>
+        <module>slf4j17-multiple-binders</module>
     </modules>
 
 </project>
