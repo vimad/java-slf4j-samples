@@ -22,6 +22,7 @@
         <module>slf4j17-multiple-binders</module>
         <module>log4j-library</module>
         <module>logback-with-log4j2-lib</module>
+        <module>logging-loop</module>
     </modules>
 
 </project>
