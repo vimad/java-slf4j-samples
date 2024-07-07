@@ -1,0 +1,1 @@
+-Dslf4j.provider=org.apache.logging.slf4j.SLF4JServiceProvider
